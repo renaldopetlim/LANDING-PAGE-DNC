@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body{
     font-family: 'inter';
 }
 /* MENU SUPERIOR */
@@ -126,9 +128,9 @@
 
 @media only screen and (max-width: 768px){
     /* SUPERIOR */
-        #logo{
-            width: 100px;
-        }
+    #logo{
+        width: 100px;
+    }
         #titulo-menusuperior{
             font-size: 28px;
             margin: 50px 0 25px 50px;
@@ -138,45 +140,63 @@
             margin: 25px 0 0 50px;
         }
     /* INFORMACIONAL */
-        #menuinformacional{
-            padding-left: 20px;
+    #menuinformacional{
+        padding-left: 20px;
+    }
+        .textoinformativo{
+            font-size: 14px;
         }
-        .icons{
-            margin: 50px 0px 50px 0px;
-        }
+            .icons{
+                margin: 25px 0px 25px 0px;
+                width: 40px;
+            }
     /* VÍDEO */
-        #secaovideo{
-            display: block;
-        }
+    #secaovideo{
+        display: block;
+    }
         #video{
-            margin: 50px 50px 50px 50px;
+            margin: 25px 50px 25px 50px;
+            width: 385px;
         }
-        #titulovideo{
-            text-align: center;
-            margin-top: 0px;
-        }
-        #textovideo{
-            text-align: center;
-            padding-bottom: 25px;
-        }
+            #titulovideo{
+                font-size: 25px;
+                text-align: center;
+                margin-top: 0px;
+            }
+            #textovideo{
+                font-size: 14px;
+                text-align: center;
+                padding-bottom: 25px;
+            }
     /* DEPOIMENTOS */
-        #div-cards{
-            display: block;
-        }
-        .card{
-            margin-left: 30px;
-        }
+    #titulo-carrossel{
+        font-size: 25px;
+    }
+    #div-cards{
+        display: block;
+        margin-top: 0;
+    }
+    .card{
+        margin-left: 36px;
+    }
         #leonardo{
-            width: 480px;
+            width: 360px;
             padding-top: 25px;
         }
         #samantha{
-            width: 480px;
+            width: 360px;
             padding-top: 25px;
         }
         #bruna{
-            width: 480px;
+            width: 360px;
             padding-top: 25px;
         }
-    /* FORMULÁRIO */
+        #seta-esquerda{
+            margin-top: 0;
+            width: 0px;
+        }
+        #seta-direita{
+            margin-top: 0;
+            width: 0px;
+        }
 }
