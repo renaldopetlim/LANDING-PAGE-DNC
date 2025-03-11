@@ -31,4 +31,4 @@ Link: https://projeto-landing-page-dnc-inicio.netlify.app/
 <img src="/readme/responsividade-desktop.png" width="720px">
 
 ### Responsividade Mobile:
-<img src="/readme/responsividade-mobile.png" width="720px">
+<img src="/readme/responsividade-mobile.png" width="480px">
