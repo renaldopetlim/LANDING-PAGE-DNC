@@ -4,10 +4,10 @@ Este projeto é uma Landing Page desenvolvida para a Escola DNC, promovendo um c
 A página apresenta informações sobre o curso, seus benefícios, depoimentos de alunos e um formulário de inscrição.
 
 ## Funcionalidades:
-• Banner Inicial: Apresenta o curso e um link para a página oficial da DNC.
-• Menu Informacional: Destaca os principais benefícios do curso, como certificado, carga horária e formato das aulas.
-• Seção de Vídeo: Exibe um vídeo explicativo sobre a jornada do aluno DNC.
-• Depoimentos: Carrossel de feedbacks de alunos que já participaram do curso.
+• Banner Inicial: Apresenta o curso e um link para a página oficial da DNC.<br>
+• Menu Informacional: Destaca os principais benefícios do curso, como certificado, carga horária e formato das aulas.<br>
+• Seção de Vídeo: Exibe um vídeo explicativo sobre a jornada do aluno DNC.<br>
+• Depoimentos: Carrossel de feedbacks de alunos que já participaram do curso.<br>
 • Formulário de Inscrição: Permite que novos alunos se cadastrem preenchendo nome, e-mail e telefone.
 
 Tecnologias Usadas: <br>
