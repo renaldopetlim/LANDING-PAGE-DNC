@@ -22,7 +22,7 @@ Caso tenha dúvidas ou sugestões, entre em contato através de renaldopetlim@gm
 Esse é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
 
 ### Responsividade Desktop:
-<img src="/readme/responsividade-desktop.png" width="480px">
+<img src="/readme/responsividade-desktop.png" width="720px">
 
 ### Responsividade Mobile:
-<img src="/readme/responsividade-mobile.png" width="480px">
+<img src="/readme/responsividade-mobile.png" width="720px">
