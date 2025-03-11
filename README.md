@@ -16,12 +16,12 @@ A página apresenta informações sobre o curso, seus benefícios, depoimentos d
 
 ## Estrutura do Projeto
 
-index.html         # Estrutura principal da Landing Page<br> 
-style.css          # Estilos da página<br> 
-script.js          # Funcionalidades interativas<br>
-/cards             # Imagens dos depoimentos dos alunos<br>
-/img               # Logos e imagens da página<br>
-/icons             # Ícones utilizados na interface
+• <b>index.html </b>- # Estrutura principal da Landing Page<br> 
+• <b>style.css </b>- # Estilos da página<br> 
+• <b>script.js </b>- # Funcionalidades interativas<br>
+• <b>/cards </b>- # Imagens dos depoimentos dos alunos<br>
+• <b>/img </b>- # Logos e imagens da página<br>
+• <b>/icons </b>- # Ícones utilizados na interface
 
 Link: https://projeto-landing-page-dnc-inicio.netlify.app/
 
