@@ -9,10 +9,19 @@ A página apresenta informações sobre o curso, seus benefícios, depoimentos d
 • <b>Depoimentos:</b> Carrossel de feedbacks de alunos que já participaram do curso.<br>
 • <b>Formulário de Inscrição:</b> Permite que novos alunos se cadastrem preenchendo nome, e-mail e telefone.
 
-## Tecnologias Usadas: <br>
+## Tecnologias Usadas:
 • <b>HTML:</b> Estrutura da página.<br>
 • <b>CSS:</b> Estilização e layout.<br>
 • <b>Java Script:</b> Funcionalidade do carrossel de depoimentos e interações.
+
+## Estrutura do Projeto
+/
+├── index.html         # Estrutura principal da Landing Page
+├── style.css          # Estilos da página
+├── script.js          # Funcionalidades interativas
+├── /IMG               # Logos e imagens da página
+├── /ICONS             # Ícones utilizados na interface
+├── /cards             # Imagens dos depoimentos dos alunos
 
 Link: https://projeto-landing-page-dnc-inicio.netlify.app/
 
