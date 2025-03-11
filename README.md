@@ -1,6 +1,5 @@
 # Landing Page - Escola DNC
-
-Este projeto é uma Landing Page desenvolvida para a Escola DNC, promovendo um curso gratuito de Introdução à Tecnologia. 
+Este projeto é uma Landing Page desenvolvida para a Escola DNC, promovendo um curso gratuito de Introdução à Tecnologia.<br> 
 A página apresenta informações sobre o curso, seus benefícios, depoimentos de alunos e um formulário de inscrição.
 
 ## Funcionalidades:
