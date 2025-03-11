@@ -10,7 +10,7 @@ A página apresenta informações sobre o curso, seus benefícios, depoimentos d
 • Depoimentos: Carrossel de feedbacks de alunos que já participaram do curso.<br>
 • Formulário de Inscrição: Permite que novos alunos se cadastrem preenchendo nome, e-mail e telefone.
 
-Tecnologias Usadas: <br>
+## Tecnologias Usadas: <br>
 • HTML: Estrutura da página.<br>
 • CSS: Estilização e layout.<br>
 • Java Script: Funcionalidade do carrossel de depoimentos e interações.
