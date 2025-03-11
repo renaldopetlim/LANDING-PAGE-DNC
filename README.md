@@ -5,15 +5,15 @@ A página apresenta informações sobre o curso, seus benefícios, depoimentos d
 
 ## Funcionalidades:
 • <b>Banner Inicial:</b> Apresenta o curso e um link para a página oficial da DNC.<br>
-• Menu Informacional: Destaca os principais benefícios do curso, como certificado, carga horária e formato das aulas.<br>
-• Seção de Vídeo: Exibe um vídeo explicativo sobre a jornada do aluno DNC.<br>
-• Depoimentos: Carrossel de feedbacks de alunos que já participaram do curso.<br>
-• Formulário de Inscrição: Permite que novos alunos se cadastrem preenchendo nome, e-mail e telefone.
+• <b>Menu Informacional:</b> Destaca os principais benefícios do curso, como certificado, carga horária e formato das aulas.<br>
+• <b>Seção de Vídeo:</b> Exibe um vídeo explicativo sobre a jornada do aluno DNC.<br>
+• <b>Depoimentos:</b> Carrossel de feedbacks de alunos que já participaram do curso.<br>
+• <b>Formulário de Inscrição:</b> Permite que novos alunos se cadastrem preenchendo nome, e-mail e telefone.
 
 ## Tecnologias Usadas: <br>
-• HTML: Estrutura da página.<br>
-• CSS: Estilização e layout.<br>
-• Java Script: Funcionalidade do carrossel de depoimentos e interações.
+• <b>HTML:</b> Estrutura da página.<br>
+• <b>CSS:</b> Estilização e layout.<br>
+• <b>Java Script:</b> Funcionalidade do carrossel de depoimentos e interações.
 
 Link: https://projeto-landing-page-dnc-inicio.netlify.app/
 
