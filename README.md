@@ -14,21 +14,18 @@ A página apresenta informações sobre o curso, seus benefícios, depoimentos d
 • <b>CSS:</b> Estilização e layout.<br>
 • <b>Java Script:</b> Funcionalidade do carrossel de depoimentos e interações.
 
-## Estrutura do Projeto
-
-• <b>index.html </b>- # Estrutura principal da Landing Page<br> 
-• <b>style.css </b>- # Estilos da página<br> 
-• <b>script.js </b>- # Funcionalidades interativas<br>
-• <b>/cards </b>- # Imagens dos depoimentos dos alunos<br>
-• <b>/img </b>- # Logos e imagens da página<br>
-• <b>/icons </b>- # Ícones utilizados na interface
-
-Link: https://projeto-landing-page-dnc-inicio.netlify.app/
+## Estrutura do Projeto:
+• <b>index.html </b>- Estrutura principal da Landing Page<br> 
+• <b>style.css </b>- Estilos da página<br> 
+• <b>script.js </b>- Funcionalidades interativas<br>
+• <b>/cards </b>- Imagens dos depoimentos dos alunos<br>
+• <b>/img </b>- Logos e imagens da página<br>
+• <b>/icons </b>- Ícones utilizados na interface
 
 ## Contato:
 Caso tenha dúvidas ou sugestões, entre em contato através de renaldopetlim@gmail.com.
 
-Esse é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+Link: https://projeto-landing-page-dnc-inicio.netlify.app/
 
 ### Responsividade Desktop:
 <img src="/readme/responsividade-desktop.png" width="720px">
