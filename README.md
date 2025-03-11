@@ -16,7 +16,7 @@ A página apresenta informações sobre o curso, seus benefícios, depoimentos d
 
 ## Estrutura do Projeto
 
-###### Estrutura principal da Landing Page - index.html <br>
+#### Estrutura principal da Landing Page - index.html <br>
 style.css          # Estilos da página<br>
 script.js          # Funcionalidades interativas<br>
 /cards             # Imagens dos depoimentos dos alunos<br>
